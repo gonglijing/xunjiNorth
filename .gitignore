@@ -1,0 +1,10 @@
+# plugin binaries
+northbound-*
+*.exe
+
+# build cache
+bin/
+
+# editor/system
+.DS_Store
+.idea/
