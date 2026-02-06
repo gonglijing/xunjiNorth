@@ -1,5 +1,5 @@
 # plugin binaries
-northbound-*
+/northbound-*
 *.exe
 
 # build cache
